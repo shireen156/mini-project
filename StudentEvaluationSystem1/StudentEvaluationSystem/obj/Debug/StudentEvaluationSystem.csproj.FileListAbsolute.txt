@@ -1,0 +1,66 @@
+c:\users\strawberry\documents\visual studio 2012\Projects\StudentEvaluationSystem\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe.config
+c:\users\strawberry\documents\visual studio 2012\Projects\StudentEvaluationSystem\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe
+c:\users\strawberry\documents\visual studio 2012\Projects\StudentEvaluationSystem\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.pdb
+c:\users\strawberry\documents\visual studio 2012\Projects\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csprojResolveAssemblyReference.cache
+c:\users\strawberry\documents\visual studio 2012\Projects\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Form1.resources
+c:\users\strawberry\documents\visual studio 2012\Projects\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Properties.Resources.resources
+c:\users\strawberry\documents\visual studio 2012\Projects\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csproj.GenerateResource.Cache
+c:\users\strawberry\documents\visual studio 2012\Projects\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.exe
+c:\users\strawberry\documents\visual studio 2012\Projects\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.pdb
+E:\1ToAJ\vs2012\StudentEvaluationSystem\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe.config
+E:\1ToAJ\vs2012\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.exe
+E:\1ToAJ\vs2012\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.pdb
+E:\1ToAJ\vs2012\StudentEvaluationSystem\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe
+E:\1ToAJ\vs2012\StudentEvaluationSystem\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.pdb
+E:\1ToAJ\vs2012\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csprojResolveAssemblyReference.cache
+E:\1ToAJ\vs2012\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Form1.resources
+E:\1ToAJ\vs2012\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Properties.Resources.resources
+E:\1ToAJ\vs2012\StudentEvaluationSystem\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csproj.GenerateResource.Cache
+C:\Users\Strawberry\Desktop\ayesha\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe.config
+C:\Users\Strawberry\Desktop\ayesha\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.exe
+C:\Users\Strawberry\Desktop\ayesha\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.pdb
+C:\Users\Strawberry\Desktop\ayesha\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe
+C:\Users\Strawberry\Desktop\ayesha\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.pdb
+C:\Users\Strawberry\Desktop\ayesha\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csprojResolveAssemblyReference.cache
+C:\Users\Strawberry\Desktop\ayesha\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Form1.resources
+C:\Users\Strawberry\Desktop\ayesha\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Properties.Resources.resources
+C:\Users\Strawberry\Desktop\ayesha\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csproj.GenerateResource.Cache
+E:\1publish\1\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe.config
+E:\1publish\1\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.exe
+E:\1publish\1\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.pdb
+E:\1publish\1\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe
+E:\1publish\1\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.pdb
+E:\1publish\1\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csprojResolveAssemblyReference.cache
+E:\1publish\1\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Form1.resources
+E:\1publish\1\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Properties.Resources.resources
+E:\1publish\1\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csproj.GenerateResource.Cache
+E:\1ToAJ\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe.config
+E:\1ToAJ\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.exe
+E:\1ToAJ\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.pdb
+E:\1ToAJ\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe
+E:\1ToAJ\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.pdb
+E:\1ToAJ\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csprojResolveAssemblyReference.cache
+E:\1ToAJ\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Form1.resources
+E:\1ToAJ\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Properties.Resources.resources
+E:\1ToAJ\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csproj.GenerateResource.Cache
+E:\1ToAJ\HireAcar\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\StudentEvaluationSystem1-2019-march-24-Raat-8-30\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe.config
+C:\Users\Dell\Downloads\StudentEvaluationSystem1-2019-march-24-Raat-8-30\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe
+C:\Users\Dell\Downloads\StudentEvaluationSystem1-2019-march-24-Raat-8-30\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.pdb
+C:\Users\Dell\Downloads\StudentEvaluationSystem1-2019-march-24-Raat-8-30\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\StudentEvaluationSystem1-2019-march-24-Raat-8-30\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Form1.resources
+C:\Users\Dell\Downloads\StudentEvaluationSystem1-2019-march-24-Raat-8-30\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Properties.Resources.resources
+C:\Users\Dell\Downloads\StudentEvaluationSystem1-2019-march-24-Raat-8-30\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csproj.GenerateResource.Cache
+C:\Users\Dell\Downloads\StudentEvaluationSystem1-2019-march-24-Raat-8-30\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\StudentEvaluationSystem1-2019-march-24-Raat-8-30\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.exe
+C:\Users\Dell\Downloads\StudentEvaluationSystem1-2019-march-24-Raat-8-30\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.pdb
+C:\Users\LENOVO\Desktop\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe.config
+C:\Users\LENOVO\Desktop\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.exe
+C:\Users\LENOVO\Desktop\StudentEvaluationSystem1\StudentEvaluationSystem\bin\Debug\StudentEvaluationSystem.pdb
+C:\Users\LENOVO\Desktop\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Form1.resources
+C:\Users\LENOVO\Desktop\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.exe
+C:\Users\LENOVO\Desktop\StudentEvaluationSystem1\StudentEvaluationSystem\obj\Debug\StudentEvaluationSystem.pdb
